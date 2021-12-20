@@ -5,4 +5,4 @@
  - My favorite language is JavaScript, but I am also looking to expand my knowledge and learn different areas of development, such as Mobile.
  - I'm currently learning and reviewing some concepts such as APIs, backend and databases at the FreeCodeCamp platform, which I highly recommend.
 
-# 💬 Feel free to send me a message, an e-mail, or to check my LinkedIn account.
+##### 💬 Feel free to send me a message, an e-mail, or to check my LinkedIn account.
